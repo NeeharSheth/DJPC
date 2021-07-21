@@ -1,0 +1,55 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 50px;
+    font-family: 'Uchen', serif;
+}
+
+.note{
+    font-size: 23px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#speed_div{
+left: 10;
+}
+
+.disk_img{
+    border-radius: 100px;
+    width: 200px;
+    margin-left: 10px;
+}
+
+.h3_speed{
+    margin-left: 50px;
+    font-size: 20px;
+    width: 100px;
+}
+
+#volume_div{
+    float: right;
+    margin-top: -250px;
+    }
+    
+    .disk_imgVolume{
+        border-radius: 100px;
+        width: 200px;
+        margin-right: 10px;
+    }
+    
+    .h3_volume{
+        margin-right: 50px;
+        font-size: 20px;
+        width: 100px;
+    }
+
+    #play, #change_button{
+width: 150px;
+font-size: 20px;
+margin-right: 15px;
+    }
