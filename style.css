@@ -53,3 +53,9 @@ width: 150px;
 font-size: 20px;
 margin-right: 15px;
     }
+
+    canvas{
+        border:ghostwhite 5px solid;
+        border-radius: 20px;
+        margin-top: 220px;
+    }
